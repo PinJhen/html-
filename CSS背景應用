@@ -1,0 +1,13 @@
+<html>
+    <head><title>css背景顏色</title>
+    <style>
+        .bg1 {background-color:yellow;}
+        #bg2 {background-color: green;}
+    </style>
+    </head>
+    <body>
+    <span class="bg1">尼泊爾</span>三日深夜約十一點四十七分（台灣時間約四日凌晨兩點）發生極淺地震，已知造成至少<span class="bg1">一五七死、一八四傷</span>，是該國自二○一五年以來傷亡最慘重的地震，重災區為西部賈賈科特縣和魯孔縣。災區多棟磚屋結構扭曲，大型家具散落地面，泥屋也都被夷為平地或毀損。
+  據尼泊爾、德國和美國地震中心研判，這起地震的規模介於五點六至六點四間，震央在首都加德滿都西方約五百公里處的拉米丹達村， <span id="bg2">震源深度介於十至十八公里</span>。
+   
+    </body>
+</html>
